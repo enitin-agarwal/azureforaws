@@ -2,7 +2,7 @@
 
 このリポジトリには、Microsoft のコース [DP-100 *Designing and Implementing a Data Science Solution on Azure*](https://docs.microsoft.com/learn/certifications/courses/dp-100t01) の実践的な演習と、同等の [Microsoft Learn のマイペースで進められるモジュール](https://docs.microsoft.com/learn/paths/build-ai-solutions-with-azure-ml-service/) が含まれています。このラボは、学習教材に付属しており、説明されている技術を使用して練習できるようになっています。
 
-ラボ演習の手順については、**[https://aka.ms/mslearn-dp100](https://aka.ms/mslearn-dp100)** を参照してください。
+ラボ演習の手順については、**[https://aka.ms/mslearn-dp100-jpn](https://aka.ms/mslearn-dp100-jpn)** を参照してください。
 
 ## 演習内容
 
